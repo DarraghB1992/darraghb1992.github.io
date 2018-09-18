@@ -1,0 +1,4 @@
+baseURL = "http://darragh.com/"
+languageCode = "en-us"
+title = "Darragh Brownes' Blog"
+theme = "tale"
